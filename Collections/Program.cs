@@ -10,6 +10,7 @@ namespace Collections
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
